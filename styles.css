@@ -1,0 +1,9 @@
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.item {
+    display: inline;
+    background-color: gray;
+    padding: 16px;
+}
